@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Solvina D Naliz",
+    "designation": "WEB DEVELOPER",
+    "image": "https://i.ibb.co/jrQNVNm/team-01.jpg",
+    "facebook": "https://www.facebook.com",
+    "twitter": "https://www.twitter.com",
+    "instagram": "https://www.instagram.com",
+    "linkedin": "https://www.linkedin.com"
+  },
+  {
+    "name": "Jerry D.Silva",
+    "designation": "UI DESIGNER",
+    "image": "https://i.ibb.co/2qDrD4R/team-02.jpg",
+    "facebook": "https://www.facebook.com",
+    "twitter": "https://www.twitter.com",
+    "instagram": "https://www.instagram.com",
+    "linkedin": "https://www.linkedin.com"
+  },
+  {
+    "name": "David Walillams",
+    "designation": "SR CONSULTANT",
+    "image": "https://i.ibb.co/H2VKGcG/team-03.jpg",
+    "facebook": "https://www.facebook.com",
+    "twitter": "https://www.twitter.com",
+    "instagram": "https://www.instagram.com",
+    "linkedin": "https://www.linkedin.com"
+  },
+  {
+    "name": "Michel Z. Jones",
+    "designation": "CEO & FOUNDER",
+    "image": "https://i.ibb.co/R4gsCz4/team-04.jpg",
+    "facebook": "https://www.facebook.com",
+    "twitter": "https://www.twitter.com",
+    "instagram": "https://www.instagram.com",
+    "linkedin": "https://www.linkedin.com"
+  }
+]

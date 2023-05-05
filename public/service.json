@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Web Development",
+    "image": "https://i.ibb.co/kDczF0m/icon-01.jpg",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking."
+  },
+  {
+    "name": "Database Analysis",
+    "image": "https://i.ibb.co/myfHYRT/icon-2.png",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking."
+  },
+  {
+    "name": "Server Security",
+    "image": "https://i.ibb.co/WFyxhvw/icon-3.png",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking."
+  },
+  {
+    "name": "UX/UI Strategy",
+    "image": "https://i.ibb.co/zZ5b4f3/icon-4.png",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking."
+  },
+  {
+    "name": "Analysis For Tools",
+    "image": "https://i.ibb.co/3fqtxky/icon-5.png",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking."
+  },
+  {
+    "name": "Marketing Strategy",
+    "image": "https://i.ibb.co/h8H8c5Y/icon-6.png",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking."
+  }
+]
